@@ -1,2 +1,2 @@
-# pharmacy_system.1.0.0
-#SISTEMA DEDICADO AL RUBRO FARMACEUTICO
+# Punto de Venta Grupo Medico Carlkiní
+#GMC
